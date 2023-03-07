@@ -1,0 +1,10 @@
+dungeons:
+  example:
+    mobs-per-region: 10
+    boss: "SKELETON_BOSS"
+    regions:
+      region1:
+        mobs:
+          - "SKELETON_KNIGHT"
+        min: { x: 159, y: 78, z: 67 }
+        max: { x: 173, y: 142, z: 85 }

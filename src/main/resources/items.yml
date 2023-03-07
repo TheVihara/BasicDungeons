@@ -1,0 +1,9 @@
+items:
+  zombie_knight_helmet_level_1:
+    type: GOLDEN_HELMET
+    name: "&6Zombie Knight Helmet&e Level 1"
+    lore:
+      - "&7&omade by zombies"
+    enchants:
+      - "PROTECTION_ENVIRONMENTAL:1"
+      - "DURABILITY:1"

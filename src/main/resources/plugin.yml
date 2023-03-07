@@ -1,0 +1,6 @@
+name: BasicDungeons
+version: @version@
+main: me.gorenjec.basicdungeons.BasicDungeons
+api-version: 1.19
+authors: [ Vihara ]
+description: BasicDungeons does exactly what you think it would do, it brings dungeons to the game.

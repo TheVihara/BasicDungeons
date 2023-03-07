@@ -1,0 +1,51 @@
+mobs:
+  zombie_knight:
+    type: ZOMBIE
+    name: "&cZombie Knight &8(&7%level%lvl&8)"
+    invisible: false
+    levels:
+      -1: # -1 means that every level of the mob that is not listed here will have the stats listed below
+        max-health: 40 # the max health the mob will have (note: a player has 20 max health)
+        damage-per-hit: 1.5 # this is the amount of heart damage the mob deals to the player
+        equipment:
+          helmet: zombie_knight_helmet_level_1
+      1:
+        max-health: 20 # the max health the mob will have (note: a player has 20 max health)
+        damage-per-hit: 1 # this is the amount of heart damage the mob deals to the player
+        equipment:
+          helmet: zombie_knight_helmet_level_1
+      2:
+        max-health: 20 # the max health the mob will have (note: a player has 20 max health)
+        damage-per-hit: 1 # this is the amount of heart damage the mob deals to the player
+        equipment:
+          helmet: zombie_knight_helmet_level_1
+      3:
+        max-health: 20 # the max health the mob will have (note: a player has 20 max health)
+        damage-per-hit: 1 # this is the amount of heart damage the mob deals to the player
+        equipment:
+          helmet: zombie_knight_helmet_level_1
+  skeleton_knight:
+    type: SKELETON
+    name: "&cSkeleton Knight &8(&7%level%lvl&8)"
+    invisible: false
+    levels:
+      -1: # -1 means that every level of the mob that is not listed here will have the stats listed below
+        max-health: 40 # the max health the mob will have (note: a player has 20 max health)
+        damage-per-hit: 1.5 # this is the amount of heart damage the mob deals to the player
+        equipment:
+          helmet: zombie_knight_helmet_level_1
+      1:
+        max-health: 20 # the max health the mob will have (note: a player has 20 max health)
+        damage-per-hit: 1 # this is the amount of heart damage the mob deals to the player
+        equipment:
+          helmet: zombie_knight_helmet_level_1
+      2:
+        max-health: 20 # the max health the mob will have (note: a player has 20 max health)
+        damage-per-hit: 1 # this is the amount of heart damage the mob deals to the player
+        equipment:
+          helmet: zombie_knight_helmet_level_1
+      3:
+        max-health: 20 # the max health the mob will have (note: a player has 20 max health)
+        damage-per-hit: 1 # this is the amount of heart damage the mob deals to the player
+        equipment:
+          helmet: zombie_knight_helmet_level_1
